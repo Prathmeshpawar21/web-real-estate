@@ -1,6 +1,6 @@
-# Real Estate Platform
+# Real Estate Platform - [Live](https://real-estate-pawar.netlify.app/)
 
-Welcome to the Real Estate Platform project! This repository contains the code for my React-based web application, hosted at [real-estate-pawar.netlify.app](https://real-estate-pawar.netlify.app/).
+Welcome to the Real Estate Platform project! This repository contains the code for my React-based web application.
 
 ## About the Project
 
