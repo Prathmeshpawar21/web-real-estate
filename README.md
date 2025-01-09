@@ -26,23 +26,11 @@ The Real Estate Platform is designed to streamline property searches and showcas
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/real-estate-platform.git
+   git clone https://github.com/Prathmeshpawar21/web-real-estate.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd real-estate-platform
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
+   cd web-real-estate
    ```
 
 ## Deployment
