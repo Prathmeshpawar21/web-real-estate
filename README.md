@@ -8,7 +8,7 @@ The Real Estate Platform is designed to streamline property searches and showcas
 
 ## Screenshot
 
-![Real Estate Platform Screenshot](./images/realestate.png)
+![Real Estate Platform Screenshot](./assests/images/realestate.png)
 
 ## Features
 
